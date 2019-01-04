@@ -1,0 +1,14 @@
+.div-principal img{
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+.div-principal h1{
+    color: aliceblue;
+}
+
+.div-principal{
+    background-color: #000000;
+    padding: 15px;
+}
